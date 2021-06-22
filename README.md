@@ -1,1 +1,1 @@
-# BSC-College-Project
+# Bsc-Paintshop Management System
